@@ -17,8 +17,8 @@ pip install scapy
 echo ' -> set command'
 MYPWD=`pwd`
 echo '#/usr/bin/python
-python '$MYPWD'/subreaker.py $*' >> /usr/bin/subreaker
+python '$MYPWD'/fastr3porter.py $*' >> /usr/bin/fastr3porter
 echo 'Set Perm'
 chmod 755 /usr/bin/subreaker
 echo -e "\e[1;32m Done!! \e[0m"
-echo -e "\e[1;32m Everything ready to start now you can use Barrel!!\e[0m"
+echo -e "\e[1;32m Everything ready to start now you can use Fastr3porter!!\e[0m"
