@@ -17,7 +17,6 @@ Hello, please select a number to choose a vulnerability
 2 - Open Redirect (No support just poc)
 3 - Information Disclosure (No support just poc)
 4 - Xss (Cross site scripting)
-5 - CSRF (Cross-site request forgery)
 
 Other vulnerabilities coming soon
 
